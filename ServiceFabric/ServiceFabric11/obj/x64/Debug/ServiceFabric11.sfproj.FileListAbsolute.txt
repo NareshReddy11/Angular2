@@ -1,0 +1,1 @@
+F:\c#.net\ServiceFabric11\ServiceFabric11\obj\x64\Debug\ServiceFabric11.sfproj.CoreCompileInputs.cache

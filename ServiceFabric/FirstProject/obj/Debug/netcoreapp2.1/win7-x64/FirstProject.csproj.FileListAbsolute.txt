@@ -1,0 +1,17 @@
+F:\c#.net\ServiceFabric11\FirstProject\obj\Debug\netcoreapp2.1\win7-x64\FirstProject.csproj.CoreCompileInputs.cache
+F:\c#.net\ServiceFabric11\FirstProject\obj\Debug\netcoreapp2.1\win7-x64\FirstProject.AssemblyInfoInputs.cache
+F:\c#.net\ServiceFabric11\FirstProject\obj\Debug\netcoreapp2.1\win7-x64\FirstProject.AssemblyInfo.cs
+F:\c#.net\ServiceFabric11\FirstProject\bin\Debug\netcoreapp2.1\win7-x64\hostpolicy.dll
+F:\c#.net\ServiceFabric11\FirstProject\bin\Debug\netcoreapp2.1\win7-x64\hostfxr.dll
+F:\c#.net\ServiceFabric11\FirstProject\bin\Debug\netcoreapp2.1\win7-x64\FirstProject.exe
+F:\c#.net\ServiceFabric11\FirstProject\bin\Debug\netcoreapp2.1\win7-x64\FirstProject.deps.json
+F:\c#.net\ServiceFabric11\FirstProject\bin\Debug\netcoreapp2.1\win7-x64\FirstProject.runtimeconfig.json
+F:\c#.net\ServiceFabric11\FirstProject\bin\Debug\netcoreapp2.1\win7-x64\FirstProject.runtimeconfig.dev.json
+F:\c#.net\ServiceFabric11\FirstProject\bin\Debug\netcoreapp2.1\win7-x64\FirstProject.dll
+F:\c#.net\ServiceFabric11\FirstProject\obj\Debug\netcoreapp2.1\win7-x64\FirstProject.csprojAssemblyReference.cache
+F:\c#.net\ServiceFabric11\FirstProject\obj\Debug\netcoreapp2.1\win7-x64\FirstProject.RazorAssemblyInfo.cache
+F:\c#.net\ServiceFabric11\FirstProject\obj\Debug\netcoreapp2.1\win7-x64\FirstProject.RazorAssemblyInfo.cs
+F:\c#.net\ServiceFabric11\FirstProject\obj\Debug\netcoreapp2.1\win7-x64\FirstProject.RazorTargetAssemblyInfo.cache
+F:\c#.net\ServiceFabric11\FirstProject\bin\Debug\netcoreapp2.1\win7-x64\FirstProject.pdb
+F:\c#.net\ServiceFabric11\FirstProject\obj\Debug\netcoreapp2.1\win7-x64\FirstProject.dll
+F:\c#.net\ServiceFabric11\FirstProject\obj\Debug\netcoreapp2.1\win7-x64\FirstProject.pdb
